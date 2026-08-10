@@ -15,7 +15,7 @@ export default function App() {
   };
   const runPandasAnalysis = async () => {
     console.log("Invocando script de Python...");
-    // Aquí irá tu llamada a Tauri Sidecar / FastAPI
+    // Aquí irá la llamada a Tauri Sidecar / FastAPI
   };
  return (
     <div className="flex flex-col h-screen w-screen bg-slate-950 text-slate-100">
